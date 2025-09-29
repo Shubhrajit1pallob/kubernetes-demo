@@ -3,3 +3,8 @@ npm-debug.log
 .DS_Store
 .env
 dist
+
+# Binaries
+kubectl
+docker
+minikube
